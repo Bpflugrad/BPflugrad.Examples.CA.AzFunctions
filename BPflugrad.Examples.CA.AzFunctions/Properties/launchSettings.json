@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "BPflugrad.Examples.CA.AzFunctions": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7130",
+      "launchBrowser": false
+    }
+  }
+}
